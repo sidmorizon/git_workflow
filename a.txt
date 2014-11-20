@@ -6,3 +6,15 @@ register feature add something
 
 
 register 2
+
+添加再来一点冲突一行
+
+有bug ,fix 一下
+
+zailai !!!!
+some changes in login feature
+
+once again!!!
+
+
+try stash!
