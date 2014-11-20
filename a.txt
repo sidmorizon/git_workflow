@@ -24,3 +24,7 @@ try stash!
 rebase1
 
 rebase2
+
+rebase1
+
+rebase2
