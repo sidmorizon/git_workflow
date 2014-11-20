@@ -1,5 +1,13 @@
 new file here!
 
-添加一行
+添加再来一点冲突一行
 
 有bug ,fix 一下
+
+zailai !!!!
+some changes in login feature
+
+once again!!!
+
+
+try stash!
