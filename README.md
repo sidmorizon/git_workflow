@@ -66,14 +66,17 @@ master分支仅用于线上发布，每个节点必须打版本`tag`，方便根
 >规范命名的好处:方便大家能一目了然知道你这个分支的作用及合并方向
 >暂时不接受其他以独立命名的分支。
 
+### 切换分支
+`stash`
 
 ### 即时开发测试环境
 `testing`分支，任何人任何时候都可以往这上面merge，相当于之前的summer2，仅用于给开发的测试环境，测试组使用release分支的环境
 
 ### review
-facebook review工具
+facebook review工具：`Phabricator`
 
 ### 关于删除分支
+暂时不删除，方便单独查看分支历史
 
 ### 图形化工具
 sourcetree
