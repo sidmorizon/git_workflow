@@ -1,10 +1,12 @@
 # 春雨Git工作流
 
+## [流程图](http://www.processon.com/diagraming/546893f0e4b054d6db9ebc1c)
+
 ## Git工作流
 1. 从develop主干checkout新feature分支
 2. TODO
 
-[流程图](http://www.processon.com/diagraming/546893f0e4b054d6db9ebc1c)
+
 
 ## 规范
 
