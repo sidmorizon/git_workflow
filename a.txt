@@ -1,16 +1,11 @@
 new make conflicts here!
 
-添加一行
 
 register feature add something
 
-再提交
 
 register 2
 
-添加再来一点冲突一行
-
-有bug ,fix 一下
 
 zailai !!!!
 some changes in login feature
