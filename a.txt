@@ -1,7 +1,7 @@
 new 啊水电费水电费是的飞 conflicts here!
 
 
-register feature add something
+register 水电费水电费 add something
 
 
 register 2
